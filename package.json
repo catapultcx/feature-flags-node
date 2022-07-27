@@ -1,0 +1,15 @@
+{
+  "name": "feature-flag-node",
+  "version": "1.0.0",
+  "description": "Example of feature flags using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Craig Cook",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
